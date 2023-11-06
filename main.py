@@ -16,17 +16,7 @@ Usage:
 1. Run this program.
 2. Choose from the menu options to add books, search the catalog, borrow books, return books, or display the catalog.
 3. Follow the on-screen instructions for each option.
-
-Author:
-Chamarthi Bharath
-
-Date:
-6th November 2023
-
-License:
-This program is open-source and available under the MIT License.
-
-"""
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 from book import Book
 from user import User
