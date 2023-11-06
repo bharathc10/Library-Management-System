@@ -16,7 +16,8 @@ Usage:
 1. Run this program.
 2. Choose from the menu options to add books, search the catalog, borrow books, return books, or display the catalog.
 3. Follow the on-screen instructions for each option.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"""
+
 
 from book import Book
 from user import User
